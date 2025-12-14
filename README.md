@@ -1,4 +1,4 @@
-##👋 I'm an Intelligence innovation Engineer specializing in full solutions for customers and teams improving operations with integrations or web applications with a focus on Cyber Threat Intelligence.
+## 👋 I'm an Intelligence innovation Engineer specializing in full solutions for customers and teams improving operations with integrations or web applications with a focus on Cyber Threat Intelligence.
 
 - 🔭 I’m currently working on: An All in one OSINT gathering platform.
 - 🌱 I’m currently learning: Python Deep learning with PyTorch and Scikit learn
